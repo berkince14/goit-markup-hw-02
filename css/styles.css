@@ -15,4 +15,37 @@ color:#4d5ae5
  .stuido_class{
  color:#2e2f42;
  }
-   
+ .link_class{
+    font-weight: 500;
+    line-height: 1.5;
+    font-size: 16px;
+    letter-spacing: 0.02em;
+    color:#2e2f42
+ }
+ .link_class:hover,
+ .link_class:focus{
+    color: #404bbf;
+ }
+ .address_class{
+    font-style: normal;
+ }
+ .mailto_class{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#434455
+ }
+ .mailto_class:hover,
+ .mailto_class:focus{
+    color:#404bbf
+ }
+.tel_class{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455
+}
+.tel_class:hover,
+.tel_class:focus{
+    color:#404bbf
+}
