@@ -51,7 +51,7 @@ color:#4d5ae5
  }
 .button_class{
     background-color: #4D5AE5;
-    font-family: "ROBOTO",sans-serif;
+    font-family: "ROBOTO", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -77,7 +77,7 @@ color:#4d5ae5
     color:#434455
 }
 .thirdsection_class{
-    background: color #f4f4fd;
+    background-color: #f4f4fd;
 }
 .thirdsubtitle_class{
     font-size: 36px;
