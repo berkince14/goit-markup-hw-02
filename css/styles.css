@@ -124,10 +124,13 @@ color:#4d5ae5
     color:#434455
 }
 .footer_class{
-    color: #2e2f42;
+    background-color: #2e2f42;
 }
 .footer_p{
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02em;
+}
+.footerstuido_class{
+    color:#2e2f42
 }
